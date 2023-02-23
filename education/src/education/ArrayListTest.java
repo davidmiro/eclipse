@@ -1,7 +1,7 @@
 package education;
 
 import java.util.ArrayList;
-public class ArrayList {
+public class ArrayListTest {
 
 	public static void main(String[] args) {
 	
